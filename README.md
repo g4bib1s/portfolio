@@ -41,12 +41,12 @@
 />
 <img 
     align="left" 
-    alt="Nodejs"
-    title="Nodejs" 
+    alt="Node.js"
+    title="Node.js" 
     width="30px" 
     style="padding-right: 10px;" 
     src="
-        https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg"
+        https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg"
 />
 <img 
     align="left" 
